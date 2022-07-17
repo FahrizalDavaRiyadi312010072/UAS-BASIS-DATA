@@ -4,6 +4,10 @@
 # NIM   : 312010072
 # Nama  : Fahrizal Dava Riyadi
 
+----------------------------------
+
+<img width="960" alt="Untitled" src="https://user-images.githubusercontent.com/101703423/179379989-270dc2ef-3b97-42b6-bb1a-035cda7c5a9d.png">
+
 <img width="960" alt="no 1" src="https://user-images.githubusercontent.com/101703423/179375552-f8faff9f-0ca3-4740-a5e0-0a818fb27a44.png">
 <img width="960" alt="lili" src="https://user-images.githubusercontent.com/101703423/179375555-f6380f0a-53ce-4fcb-89c0-e55acf21a565.png">
 <img width="960" alt="lalala" src="https://user-images.githubusercontent.com/101703423/179375556-ecca34fa-bda3-43f8-9f8f-168ec4b98e38.png">
